@@ -1,4 +1,4 @@
-RetailSalesForecast
+# RetailSalesForecast
 # Objective
 The goal of this project is to perform an in-depth analysis of superstore sales data using Power BI and utilize its forecasting tool to generate precise sales predictions. This analysis will help businesses optimize their strategies based on valuable insights into customer behavior, product performance, and regional trends.
 
