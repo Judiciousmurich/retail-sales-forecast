@@ -27,5 +27,10 @@ One of the highlights of this project is the use of Power BI’s Forecast tool, 
 Predict future sales for specific products or regions.
 Assess customer purchasing trends to inform marketing strategies.
 Make informed decisions regarding staffing, stock levels, and promotions based on forecasts.
+![image](https://github.com/user-attachments/assets/f1da07db-0599-4ce8-b9bc-144fd6a10078)
+
+![image](https://github.com/user-attachments/assets/48f04ed0-9070-47d5-9bb7-48c0d820dc57)
+
+
 # Conclusion
 The RetailSalesForecast project provides valuable insights into business operations, helping decision-makers optimize strategies, forecast sales, and improve overall performance. With the combination of data analysis and predictive modeling, businesses can make informed, data-driven decisions that enhance growth and profitability.
